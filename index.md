@@ -3,18 +3,81 @@
 layout: col-sidebar
 title: OWASP maryam
 tags: example-tag
-level: 4
+level: 0
 type: tool
 
+auto-migrated: 1
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+This is an example of a Project or Chapter Page.
+<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
+"OWASP_Project_Header.jpg")
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+</div>
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+<table>
+<tbody>
+<tr class="odd">
+<td><h2 id="owasp_maryam">OWASP Maryam</h2>
+<p><a href="https://www.owasp.org/images/3/3e/Maryam-155%2A120.png">https://www.owasp.org/images/3/3e/Maryam-155%2A120.png</a></p>
+<p><a href="https://www.owasp.org/images/3/3e/Maryam-155%2A120.png">https://www.owasp.org/images/3/3e/Maryam-155%2A120.png</a></p>
+<h6 id="owasp_maryam_framework_is_an_open_source_software_application_in_python_for_web_identification."><strong>OWASP Maryam framework</strong> is an open source software application in Python for Web Identification.</h6>
+<h6 id="owasp_maryam_framework_is_an_open_source_software_application_in_python_for_web_identification."><strong>OWASP Maryam framework</strong> is an open source software application in Python for Web Identification.</h6>
+<h2 id="description">Description</h2>
+<h2 id="description">Description</h2>
+<p><strong>Maryam</strong> is a full-featured Web Identification framework written in Python.</p>
+<p><strong>Maryam</strong> is a full-featured Web Identification framework written in Python.</p>
+<p>Complete with independent modules, built in convenience functions, interactive help, and command completion, Maryam provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.</p>
+<p>Complete with independent modules, built in convenience functions, interactive help, and command completion, Maryam provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.</p>
+<p>Maryam is a completely <strong>modular framework</strong> and makes it easy for even the newest of <strong>Python developers</strong> to contribute. Each module is a subclass of the "module" class.The "module" class is a customized "cmd" interpreter equipped with built-in functionality that provides simple interfaces to common tasks such as standardizing output, and making web requests. Therefore, all the hard work has been done. Building modules is simple and takes little more than a few minutes. See the Development Guide for guide information.</p>
+<p>Maryam is a completely <strong>modular framework</strong> and makes it easy for even the newest of <strong>Python developers</strong> to contribute. Each module is a subclass of the "module" class.The "module" class is a customized "cmd" interpreter equipped with built-in functionality that provides simple interfaces to common tasks such as standardizing output, and making web requests. Therefore, all the hard work has been done. Building modules is simple and takes little more than a few minutes. See the Development Guide for guide information.</p>
+<h3 id="you_can_extract">You Can extract:</h3>
+<h3 id="you_can_extract">You Can extract:</h3>
+<ul>
+<ul>
+<li>emails from search engines</li>
+<li>emails from search engines</li>
+<li>subdomains from different sources</li>
+<li>subdomains from different sources</li>
+<li>social networks</li>
+<li>social networks</li>
+<li>documentations</li>
+<li>documentations</li>
+<li>onion related links</li>
+<li>onion related links</li>
+<li>and ..</li>
+<li>and ..</li>
+</ul>
+</ul>
+<h2 id="licensing">Licensing</h2>
+<h2 id="licensing">Licensing</h2>
+<h4 id="general_public_license_version_3">GENERAL PUBLIC LICENSE Version 3</h4>
+<h4 id="general_public_license_version_3">GENERAL PUBLIC LICENSE Version 3</h4>
+<p>The Maryam is free to use and is licensed under the <strong>GPL-V3</strong> License. <a href="Https:/github.com/saeeddhqan/Maryam/blob/master/LICENSE" title="wikilink">Click to see the full license</a></p></td>
+<p>The Maryam is free to use and is licensed under the <strong>GPL-V3</strong> License. <a href="Https:/github.com/saeeddhqan/Maryam/blob/master/LICENSE" title="wikilink">Click to see the full license</a></p></td>
+<li><a href="https://github.com/saeeddhqan/Maryam">Github Page.</a></li>
+<li><a href="https://hub.docker.com/r/saeeddhqan/maryam">Ducker Page</a></li>
+<li><a href="https://www.openhub.net/p/maryam-project">OpenHub Page</a></li>
+<li><a href="https://github.com/saeeddhqan/Maryam">Wiki</a></li>
+<li><a href="https://github.com/saeeddhqan/Maryam">Contributes</a></li>
+</ul>
+<h2 id="quick_download">Quick Download</h2>
+<ul>
+<li><a href="https://github.com/saeeddhqan/Maryam/archive/master.zip">.zip file.</a></li>
+</ul>
+<h2 id="project_leader">Project Leader</h2>
+<ul>
+<li><a href="mailto:saeeddhqan@gmail.com">saeed dehqan</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+__NOTOC__ <headertabs />
 
+[Category:OWASP Project](Category:OWASP_Project "wikilink")
+[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
+[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
+[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
