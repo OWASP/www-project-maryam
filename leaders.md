@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Saeed Dehghan](mailto://saeed.dehghan@owasp.org)
+* [Saeed Dehghan](mailto:saeed.dehghan@owasp.org)
