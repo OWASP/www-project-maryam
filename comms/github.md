@@ -3,12 +3,12 @@
 layout: null
 title: Github Redirect
 tags: maryam
-permalink: /github/
+permalink: https://github.com/saeeddhqan/maryam
 
 ---
 
 <html>
   <head>
-    <meta http-equiv="refresh" content="https://github.com/saeeddhqan/marxam" />
+    <meta http-equiv="refresh" content="https://github.com/saeeddhqan/maryam" />
   </head>
 </html>
