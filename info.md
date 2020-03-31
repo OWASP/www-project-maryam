@@ -1,17 +1,21 @@
 ### Project Classification
 
-![Incubator Project](assets/images/common/owasp_level_incubator.svg)
+![Lab Projects](/assets/images/common/owasp_level_labs.svg)
+* <i class="fas fa-flag" style="color:#2ADA08;"></i>Lab Projects
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
-![Defenders](assets/images/common/owasp_defenders.svg)
-![Builders](assets/images/common/owasp_builders.svg)
-
-![Tool Project](assets/images/common/owasp_tool_project.svg)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Downloads
 
 * [Github page](https://github.com/saeeddhqan/Maryam)
 * [zip file](https://github.com/saeeddhqan/Maryam/zipball/master)
 * [tar.gz file](https://github.com/saeeddhqan/Maryam/tarball/master)
+
+
+### Development
+* Please help us to make Maryam even better [Development Guide](https://github.com/saeeddhqan/maryam/wiki/Development-Guide)
 
 ### Licensing
 
