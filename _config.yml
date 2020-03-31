@@ -1,7 +1,7 @@
 remote_theme: "owasp/www--site-theme"
 
 #override default star and watch buttons
-code_user: maryam
+code_user: saeeddhqan
 code_repo: maryam
 
 # core files/folders to exclude
