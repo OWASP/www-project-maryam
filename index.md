@@ -10,7 +10,6 @@ pitch: OWASP Maryam is an Open-source intelligence(OSINT) and Web-based Footprin
 ---
 
 
-[![OWASP Incubator](https://img.shields.io/badge/owasp-Incubator%20project-48A646.svg)](https://www2.owasp.org/projects#div-incubator)
 ![Version 1.3.2](https://img.shields.io/badge/Version-1.3.2-green.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)
 ![Python 2.x](https://img.shields.io/badge/Python-2.x-green.svg)
