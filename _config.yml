@@ -1,12 +1,12 @@
 remote_theme: "owasp/www--site-theme"
 
 #override default star and watch buttons
-#code_user: saeeddhqan
-#code_repo: maryam
+code_user: saeeddhqan
+code_repo: maryam
 
 # core files/folders to exclude
-#exclude:
- #- README.md
+exclude:
+ - README.md
 
 plugins:
  - jekyll-include-cache-0.2.0
