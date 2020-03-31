@@ -2,9 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Maryam
-tags: example-tag
-level: 0
+tags: maryam
+level: 1
 type: tool
+pitch: OWASP Maryam is an Open-source intelligence(OSINT) and Web-based Footprinting modular framework based on the Recon-ng and written in Python.
 
 auto-migrated: 1
 auto-migrated: 1
@@ -15,44 +16,36 @@ auto-migrated: 1
 
 ---
 
+[![OWASP Incubator](https://img.shields.io/badge/owasp-Incubator%20project-48A646.svg)](https://www2.owasp.org/projects#div-incubator)
+![Version 1.3.2](https://img.shields.io/badge/Version-1.3.2-green.svg)
+[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)
+![Python 2.x](https://img.shields.io/badge/Python-2.x-green.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
+[![asciicast](https://asciinema.org/a/DlWH9AgkRtg2TfLd9DvwDvmy3.svg)](https://asciinema.org/a/DlWH9AgkRtg2TfLd9DvwDvmy3)
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+**OWASP Maryam** is an **Open-source intelligence(OSINT)** and **Web-based Footprinting** modular framework based on the Recon-ng and written in Python.
 
-{front matter for this file}
+## What can be done
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+**Can extract**
+*   Comments, Links, CDNs, CSS, JS files..
+*   Documentations(pdf, doc, ..)
+*   Keywords, errors, usernames, ..
+*   DNS, TLD and bruteforce it.
+*   SiteMap
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+**Can identify**
+*   Interesting and important files
+*   Emails from search engines
+*   Onion related links
+*   Subdomains from different sources
+*   WebApps, WAF,..
+*   Social networks
+*   ..
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## links
+### [OWASP](https://www.owasp.org/index.php/OWASP_Maryam_Project)
+### [Wiki](https://github.com/saeeddhqan/maryam/wiki)
+### [Modules Guide](https://github.com/saeeddhqan/maryam/wiki/modules)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Bugs, requests, or any other issues please [Contact us](mailto:saeed.dehghan@owasp.org)
