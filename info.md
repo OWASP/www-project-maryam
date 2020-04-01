@@ -1,7 +1,5 @@
 ### Project Classification
 
-![Lab Projects](/assets/images/common/owasp_level_labs.svg)
-* <i class="fas fa-lab" style="color:#2ADA08;"></i>Lab Projects
 * <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
