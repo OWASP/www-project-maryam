@@ -1,15 +1,8 @@
-![Version 1.4.7](https://img.shields.io/badge/Version-1.4.7-green.svg)
-[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)
-![Python 3.x](https://img.shields.io/badge/Python-3.x-green.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
-
 <img src="https://owasp.org/assets/images/logo.png">
 
-# OWASP Maryam
-<br>
 OWASP Maryam is an Open-source intelligence(OSINT) and Web-based Footprinting optional/modular framework based on the Recon-ng core and written in Python.
 If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, please read the [Quick Guide](https://github.com/saeeddhqan/Maryam/wiki#quick-guide).
-<br>
+
 ## Modules
 **OSINT**
 
