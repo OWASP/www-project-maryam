@@ -10,7 +10,7 @@ type: tool
 pitch: OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting optional/modular framwork based on Recon-ng core and written in Python. If you have Skill in OWASP Maryam is a modular/optional open source framework based on OSINT and data gathering. Maryam is written in Python programming language and It’s designed to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
 ---
 
-![Version 1.4.7](https://img.shields.io/badge/Version-1.4.7-green.svg)
+![Version 1.4.7](https://img.shields.io/badge/Version-1.4.8-green.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)
 ![Python 3.x](https://img.shields.io/badge/Python-3.x-green.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
@@ -84,12 +84,12 @@ OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting op
 ## News
 **What is new?**
 
+ - Added three new source rapiddns, certspotter and sublist3r for dns_search
  - Using python3
  - Added dbrute, fbrute, tldbrute, entry_points and waf to footprint
  - Added Thread supporting to modules
  - Added csv format output
  - Rewrite utils
- - Added Search submodule
  
 ## links
 ### [OWASP](https://owasp.org/www-project-maryam/)
@@ -98,4 +98,4 @@ OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting op
 ### [Modules Guide](https://github.com/saeeddhqan/maryam/wiki/modules)
 ### [Development Guide](https://github.com/saeeddhqan/maryam/wiki/Development-Guide)
 
-Bugs, requests, or any other issues please [contact me](mailto:saeed.dehghan@owasp.org)
+To report bugs, requests, or any other issues please [create an issue](https://github.com/saeeddhqan/maryam/issues).
