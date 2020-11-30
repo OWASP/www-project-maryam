@@ -16,45 +16,54 @@ pitch: OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprin
 ![Python 3.8.x](https://img.shields.io/badge/Python-3.8.x-green.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
 
-OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting optional/modular framework based on Recon-ng core and written in Python. OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in Python programming language and It’s designed to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
+<img src="https://owasp.org/assets/images/logo.png">
+
+# OWASP Maryam
+
+[![asciicast](https://asciinema.org/a/357588.svg)](https://asciinema.org/a/357588)
+
+OWASP Maryam is an Open-source intelligence(OSINT) and Web-based Footprinting optional/modular framework based on the Recon-ng core and written in Python.
+If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, please read the [Quick Guide](https://github.com/saeeddhqan/Maryam/wiki#quick-guide).
+
 
 ## Modules
 **OSINT**
 
  - dns_search
-	> Search in the search engines and other sources for find DNS.
+	> Search in the open-sources to find subdomans.
  - email_search
-	> Search in search engines for find emails.
+	> Search in open-sources to find emails.
  - docs_search
-	> Search in engines for find related documents. 
+	> Search in open-sources to find relevant documents. filetypes[pdf,doc,docx,ppt,pptx,xlsx,txt,..].
  - onion_search
-	> onion_search is to create the premier search engine for services residing on the Tor anonymity network.
- - godork	
-	> Search your dork in the google and get result
+	> onion_search is used to create the premier search engine for services residing on the Tor anonymity network.
+ - godork
+	> Search google for your dork and get result.
  - social_nets
-	> Search for find usernames in social networks.
+	> Search to find usernames in social networks.
  - crawler
-	> Crawl web pages for find links, JS Files, CSS files, Comments And everything else interesting with thread supporting
+	> Crawl web pages to find links, JS Files, CSS files, Comments and everything else interesting, supports concurrency.
  - suggest
- 	> Get search engine suggestions
+	> Keyword autocompleter to find suggestions in search engines.
+
 	
 **FOOTPRINT**
  - crawl_pages
-	> Search to find keywords, emails, usernames, errors, meta tags and regex on the page/pages
+	> Search to find keywords, emails, usernames, errors, meta tags and regex on the page/pages.
  - dbrute 
-	> DNS brute force attack with thread supporting
+	> DNS brute force attack, supports concurrency.
  - fbrute 
-	> File/Directory brute force attack with thread supporting
+	> File/Directory brute force attack, supports concurrency.
  - tldbrute
-	> TLD brute force attack with thread supporting
+	> TLD brute force attack, supports cocurrency.
  - waf
-	> Identify web application firewalls. It can detect over 200 firewall
- - wapps        
+	> Identify web application firewalls. It can detect over 200 firewalls.
+ - wapps
 	> Web fingerprinting to identify the applications used with over 1000 pyload.
  - interest_files
 	> Search hosts for interesting files in predictable locations and brute force it.
  - entry_points
-	> Crawl web pages for find entry points(inputs, urls with param)
+	> Crawl web pages to find entry points(inputs, urls with param).
 
 **SEARCH**
  - google
@@ -71,26 +80,30 @@ OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting op
 	> Bing.com search
  - twitter
 	> Twitter.com search
- - linkedin
+ - linkedIn
 	> Linkedin.com search
  - facebook
 	> Facebook.com search
  - searchencrypt
 	> Searchencrypt.com search
  - millionshort
-	> Millionshort.com
+	> Millionshort.com search
  - qwant
-	> Qwant.com
-
+	> Qwant.com search
+ - youtube
+	> YouTube.com search
+ - quora
+	> quora.com search
 ## News
 **What is new?**
 
+ - Added youtube and quora search module
  - Added three new source rapiddns, certspotter and sublist3r for dns_search
- - Using python3
+ - Uses python3
  - Added dbrute, fbrute, tldbrute, entry_points and waf to footprint
- - Added Thread supporting to modules
+ - Added Thread support to modules
  - Added csv format output
- - Rewrite utils
+
  
 ## links
 ### [OWASP](https://owasp.org/www-project-maryam/)
@@ -98,5 +111,7 @@ OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting op
 ### [Install](https://github.com/saeeddhqan/maryam/wiki#install)
 ### [Modules Guide](https://github.com/saeeddhqan/maryam/wiki/modules)
 ### [Development Guide](https://github.com/saeeddhqan/maryam/wiki/Development-Guide)
+
+Liked the project? Donate Bitcoin: 1oGzx7wrstYxzan2n38CzxPk3uqgisA6i
 
 To report bugs, requests, or any other issues please [create an issue](https://github.com/saeeddhqan/maryam/issues).
