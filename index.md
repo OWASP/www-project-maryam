@@ -7,7 +7,7 @@ tags: maryam
 project: true
 level: 4
 type: tool
-pitch: OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprinting optional/modular framework based on Recon-ng core and written in Python. OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in Python programming language and It’s designed to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
+pitch: OWASP Maryam is an Open-Source Intelligence (OSINT), data gathering, and Web-Based Footprinting modular framework based on Recon-ng core and written in Python. It is designed to provide a powerful environment to harvest data from open sources, search engines, and to collect that data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
 ---
 
 [![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
@@ -15,8 +15,6 @@ pitch: OWASP Maryam is an Open-Source intelligence(OSINT) and Web-Based Footprin
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-green.svg)
 ![Python 3.8.x](https://img.shields.io/badge/Python-3.8.x-green.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
-
-<img src="https://owasp.org/assets/images/logo.png">
 
 # OWASP Maryam
 
@@ -27,7 +25,8 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
 
 
 ## Modules
-**OSINT**
+
+### OSINT
 
  - dns_search
 	> Search in the open-sources to find subdomans.
@@ -46,8 +45,8 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
  - suggest
 	> Keyword autocompleter to find suggestions in search engines.
 
-	
-**FOOTPRINT**
+### FOOTPRINT
+
  - crawl_pages
 	> Search to find keywords, emails, usernames, errors, meta tags and regex on the page/pages.
  - dbrute 
@@ -65,7 +64,8 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
  - entry_points
 	> Crawl web pages to find entry points(inputs, urls with param).
 
-**SEARCH**
+### SEARCH
+
  - google
 	> Google.com search
  - metacrawler 
@@ -94,6 +94,7 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
 	> YouTube.com search
  - quora
 	> quora.com search
+
 ## News
 **What is new?**
 
@@ -104,14 +105,12 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
  - Added Thread support to modules
  - Added csv format output
 
- 
-## links
-### [OWASP](https://owasp.org/www-project-maryam/)
+## Links
 ### [Wiki](https://github.com/saeeddhqan/maryam/wiki)
 ### [Install](https://github.com/saeeddhqan/maryam/wiki#install)
 ### [Modules Guide](https://github.com/saeeddhqan/maryam/wiki/modules)
 ### [Development Guide](https://github.com/saeeddhqan/maryam/wiki/Development-Guide)
 
-Liked the project? Donate Bitcoin: 1oGzx7wrstYxzan2n38CzxPk3uqgisA6i
+Liked the project? [Donate](https://owasp.org/donate?reponame=www-project-maryam&title=OWASP+Maryam)
 
 To report bugs, requests, or any other issues please [create an issue](https://github.com/saeeddhqan/maryam/issues).
