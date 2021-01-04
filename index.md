@@ -5,12 +5,12 @@ title: OWASP Maryam
 site_side: true
 tags: maryam
 project: true
-level: 4
+level: 2
 type: tool
 pitch: OWASP Maryam is an Open-Source Intelligence (OSINT), data gathering, and Web-Based Footprinting modular framework based on Recon-ng core and written in Python. It is designed to provide a powerful environment to harvest data from open sources, search engines, and to collect that data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
 ---
 
-[![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
+[![OWASP Incubator](https://img.shields.io/badge/OWASP-Incubator%20Project-48A646.svg)](https://owasp.org/projects/#div-incubator)
 ![Version 1.4.8](https://img.shields.io/badge/Version-1.4.8-green.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-green.svg)
 ![Python 3.8.x](https://img.shields.io/badge/Python-3.8.x-green.svg)
@@ -110,7 +110,5 @@ If you have skill in Metasploit or Recon-ng, you can easily use it without prere
 ### [Install](https://github.com/saeeddhqan/maryam/wiki#install)
 ### [Modules Guide](https://github.com/saeeddhqan/maryam/wiki/modules)
 ### [Development Guide](https://github.com/saeeddhqan/maryam/wiki/Development-Guide)
-
-Liked the project? [Donate](https://owasp.org/donate?reponame=www-project-maryam&title=OWASP+Maryam)
 
 To report bugs, requests, or any other issues please [create an issue](https://github.com/saeeddhqan/maryam/issues).
