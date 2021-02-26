@@ -7,24 +7,21 @@ tags: maryam
 project: true
 level: 2
 type: tool
-pitch: OWASP Maryam is an Open-Source Intelligence (OSINT), data gathering, and Web-Based Footprinting modular framework based on Recon-ng core and written in Python. it is designed to provide a powerful environment to harvest data from open sources, search engines, and to collect that data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
+pitch: OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in the Python programming language and has been designed to provide a powerful environment to harvest data from open-sources and search engines and collect data quickly and thoroughly. If you are familiar with Metasploit or Recon-ng, you can easily use it without prerequisites and if not, it’s easy to use.
 ---
 
 [![Build Status](https://travis-ci.com/saeeddhqan/maryam.svg?branch=master)](https://travis-ci.com/saeeddhqan/maryam)
-![Version 1.4.8](https://img.shields.io/badge/Version-1.4.8-green.svg)
+![Version 1.4.9](https://img.shields.io/badge/Version-1.4.9-green.svg)
 ![GPLv3 License](https://img.shields.io/badge/License-GPLv3-green.svg)
 ![Python 3.8.x](https://img.shields.io/badge/Python-3.8.x-green.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40d81c48b3444ee78ffc6c5c8639134c)](https://www.codacy.com/manual/saeeddhqan/Maryam?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saeeddhqan/Maryam&amp;utm_campaign=Badge_Grade)
 
 # OWASP Maryam
 
-OWASP Maryam is a modular/optional open source framework based on OSINT and data gathering. Maryam is written in Python programming language and It’s designed
-to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly. If you have skill in Metasploit or Recon-ng, you can easily use it without prerequisites and if not, please read the [Quick Guide](https://github.com/saeeddhqan/Maryam/wiki#quick-guide).
+OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in the Python programming language and has been designed to provide a powerful environment to harvest data from open-sources and search engines and collect data quickly and thoroughly. If you are familiar with Metasploit or Recon-ng, you can easily use it without prerequisites and if not, please read the [Quick Guide](https://github.com/saeeddhqan/Maryam/wiki#quick-guide).
 The interface of this project heavily inspired by [Recon-ng](https://github.com/lanmaster53/recon-ng).
 
 # Install
-For installing, there's no need for a lot of modules to install, It just needs a "requests"
-library
 ### Supported OS
  - Linux
  - FreeBSD
@@ -42,15 +39,15 @@ python3 maryam -e help
 ```
 [![asciicast](https://asciinema.org/a/382779.svg)](https://asciinema.org/a/382779?speed=2)
 
-## News
-**What is new?**
+## Updates
+**Last Updates**
 
+ - Added instagram search module
  - Fixed bing and google search
  - Deleted searchencrypt engine
  - Running modules with options(Without entering to program) 
  - Added youtube and quora search module
  - Added three new source rapiddns, certspotter and sublist3r for dns_search
- - Added dbrute, fbrute, tldbrute, entry_points and waf to footprint
 
 ## Contribution
 
@@ -63,6 +60,7 @@ The best help to write a new module is by checking the current modules.
  - Write a complete metacrawler engine based on OSINT by using the current search engines
  - Add new sources for dns_search module
  - Compatible with Windows OS
+ - Web User Interface
 
 ## links
 ### [OWASP](https://owasp.org/www-project-maryam/)
