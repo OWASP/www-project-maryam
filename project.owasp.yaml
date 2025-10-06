@@ -1,0 +1,27 @@
+audience:
+  - breaker
+  - builder
+community:
+  - name: owasp-maryam
+    platform: slack
+    url: https://owasp.slack.com/archives/C01PJA8SWLD
+leaders:
+  - name: Saeed Dehghan
+    email: saeed.dehghan@owasp.org
+    github: saeeddhqan
+level: 2
+license:
+  - GPL-3.0
+name: OWASP Maryam
+pitch: OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in the Python programming language
+  and has been designed to provide a powerful environment to harvest data from open-sources and search engines and collect data quickly and thoroughly.
+repositories:
+  - name: www-project-maryam
+    url: https://github.com/OWASP/www-project-maryam
+    description: 'OWASP Maryam project landing page '
+tags:
+  - maryam
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-maryam
